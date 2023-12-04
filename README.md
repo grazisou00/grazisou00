@@ -1,6 +1,5 @@
 ### Oi eu sou a Graziela Souza
 - 🌱 Atualmente sou aluna de graduação em ciência da computação
-- 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Grazi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
